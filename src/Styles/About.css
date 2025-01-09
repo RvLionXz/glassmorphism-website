@@ -119,13 +119,11 @@ about-img:hover {
 
   .about-content h1 {
     font-size: 5vh;
-    line-height: 5vh;
     margin-bottom: 4px;
   }
 
   .about-content p {
     font-size: 1.5vh;
-    line-height: 1.6vh;
   }
   .about-button {
     width: 200px; 
@@ -137,5 +135,10 @@ about-img:hover {
   .about-image img {
     width: 250px;
     margin: 0px;
+  }
+    
+  .social-icons a{
+    font-size: 5vw;
+    color: #fff;
   }
 }
